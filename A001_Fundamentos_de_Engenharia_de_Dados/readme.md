@@ -12,6 +12,6 @@ E na sequencia colocar S [Sim]
 
 - Ativar o ambiente virtual novamente como no comando do exemplo “.\.venv\Scripts\activate.ps1” que ele já estará ativado.
 
-- Com o ambiente virtual ativado, instalar as bibliotecas do requirements.txt. “pip install -r requirements.txt”
+- Com o ambiente virtual ativado, instalar as bibliotecas do requirements.txt. “py -m pip install -r requirements.txt”
 
 - Para sair do ambiente virtual basta usar o comando “deactivate”
